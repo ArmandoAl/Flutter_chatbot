@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sophia-mlpx",
+  "private_key_id": "598beae61c675d65f6b5dfad36aff6f0a54c9607",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/LRRVjFS3guoJ\nIwW+sOXjE2leckkFLXwRrQptZZ0TxO5no5g7HTZXdXPV2aq9Dz1pIXjFkHPlErrB\nSMecx2ZFUr2n0pLnseFdw2YOMsKWuEDpaS55uC6hsKPFKRiLgFS+NpPHi+0nAqE7\nAaC/IIRaW4CRXnf+VGRcjNTwvvN1RWZQNX1l2U0qNWv/QXwmrzqIg5/9lyDptEWW\nHU1fAN5O2ZLOkF89YZwvCROxxL4tQUaAROS6WIKymjFQB3my+aRpRO+OKw8dAVeF\nkwZSpWKBoQ4+mm5VqDAWb5aAFnIGuJBxBkfEFHJy8H/bY2KOQbYbHQmRWdq92fVW\nrLTjEVbvAgMBAAECggEAAObXAHpqFnf4m+s/QLCX2qPtF9XVGrEWwov+z1w6Ghbj\nDmV/rAZLx0MfFwr0q58HbYka0oys/lMy0fQZKaNDmxv7zKu6H+UOe3ueSGCgU6HI\nngIqWai+F5CPFEA5yKW4uRNPiDDFiLSSDu/0u/eyagAafNjPC/bvs+V2ZF30FkFV\nB7prrImRVx6bojO+62DpDZpFMxHPZuNCALKSFFkZzSIDYR7LsKOl4qgBaaw37r/V\ncHrMQlqAr/dPlEnaa0dzrvpH+ccGSRoWufgVhhTFhne4ZqNuoLLs4e1tobprNmhp\nk+pexRerwRVwOOLcKykDDMCobYUHvURsiq3CMIP8cQKBgQD5vOayjl8qpJm20zHF\nJ+mLZjRF9WpX20LBl7SEsmpg3ghq2xfFCYMBZancutKo88vJQDT0PqZCqAhCR7U0\n5L5g8BtAEseiSVIBbRjADXnCHazU0h4bd70HMsmH7mvD3jd7RMRv7n/EzRyloMnn\nA95uzIm1vyEf6jHjv0zF0UVY2QKBgQDD+ENBNNwCF7+30Ftd45Vwc2Wh5euBf/0g\npq9cybdxs50LcHntuwTNMuH1apv9ChspGkHk6N6+BWhdwO+eVSJaKPUo+okgoOfX\noYZvWMDHQxx5h1HqaOJlhA4WrCBHqH+JIvJnsqCxHWkn2zH3Ke2BYEH4Iz7yHbcJ\nUm/smgGRBwKBgHv7pCyRMf3hqc5yGwtePTvPibQRmrHzULj7r8sRKG7ezB8AllRj\n3H4dEq9asKrgHhPTpHZ9g90jvrXpE7Umur01dtHggOu4qtW6a8cs6X3NbbhaeEf6\nsgWY2SR64VVkRPcVtNA8/4GcstQndxURfqRTNyrbsH4/rnT6zAqJUnxBAoGBAK0q\nmItrISn8QF42EDZz316BqgIYwDUrmsqaYAU2/hHL7G7qUeO/SavlVYPeU76SipOU\nbzvOht0UvDd0QIkBo5xV6uTuFfQuGxAQ3FFR9O9fHy9IYxsm2T9pJGXmbZPEkgXl\nSpxVXOeFHKGqcIl+lC+plkGlK38YwN/M57gEEnRLAoGBAMOUy0qxdcyhoPfjWk/T\nXTK+xcbBZoJ+zgH4g+om0kCwO+Lwc8JsalxClwhe1eK8HaEslo9sbHHHrg4PcC+H\nqH6ekNCOHNMgF5IKmRtwTF5Yia3RvthB6kUgCCD+EEW5Wa86YRupcXStalekqht6\ny+UxiEC5TfoqoQDE+QDmQ13e\n-----END PRIVATE KEY-----\n",
+  "client_email": "sophia-flutter@sophia-mlpx.iam.gserviceaccount.com",
+  "client_id": "114976447803565069260",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sophia-flutter%40sophia-mlpx.iam.gserviceaccount.com"
+}
